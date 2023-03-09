@@ -1,1 +1,6 @@
-{}
+{
+	"nodes":[
+		{"id":"ac00c4f7bcf0e562","x":-128,"y":-138,"width":250,"height":158,"type":"text","text":"# Discreate Mathematics"}
+	],
+	"edges":[]
+}

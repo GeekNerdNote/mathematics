@@ -1,1 +1,7 @@
-{}
+{
+	"nodes":[
+		{"id":"8a80a18bdeb78ab5","x":-177,"y":-30,"width":250,"height":60,"type":"text","text":"# Linear Algebra "},
+		{"id":"8fd8fd5c0a5561a8","x":-817,"y":280,"width":640,"height":360,"type":"link","url":"https://youtu.be/JnTa9XtvmfI"}
+	],
+	"edges":[]
+}
